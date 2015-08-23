@@ -1,7 +1,7 @@
 //<?php
 /**
  * UltimateParent
- * alla risorsa specificata appartiene
+ * Restituisce l'Id della risorsa genitore
  *
  * @category 	snippet
  * @version 	2.0
